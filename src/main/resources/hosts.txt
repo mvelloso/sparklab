@@ -1,0 +1,11 @@
+cloudmaster01.silasg.local
+namenode01.silasg.local
+jobtracker01.silasg.local
+languages01.silasg.local
+hbase01.silasg.local
+extraservices01.silasg.local
+datanode01.silasg.local
+datanode02.silasg.local
+datanode03.silasg.local
+mitkdc.silasg.local
+silak2share.silasg.local
